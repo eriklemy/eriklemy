@@ -6,7 +6,7 @@
 
 ## About Me
 
-My name is Erick Lemmy, and I am a computer engineering student in my 9th semester at PUCPR. Currently, I am also engaged in an internship as a researcher within a Research and Development team. Working on vehicle classification using advanced technologies such as LiDAR and Doppler, coupled with image processing and machine learning techniques.
+My name is Erick Lemmy, and I am a Computer Engineer from PUCPR. Currently, I am pursuing my Master's in Engineering while actively contributing to a Research and Development team. My work focuses on vehicle classification using cutting-edge technologies, including LiDAR and Doppler, combined with image processing and machine learning techniques to enhance accuracy and efficiency in traffic monitoring systems.
 
 ## GitHub Stats
 
